@@ -10,4 +10,10 @@ r = requests.get(base_url+"bootstrap-static/").json()
 players = pd.json_normalize(r["elements"])
 
 # make player df into csv 
-players.to_csv("player_data.csv", index=False)
+players.to_csv("player_data.csv", index=False) 
+
+# take the teams detail info 
+teams = pd.json_normalize(r["teams"])
+
+# make teams df into csv 
+teams.to_csv("teams_data.csv", index=False)
