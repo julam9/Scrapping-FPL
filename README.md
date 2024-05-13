@@ -2,7 +2,7 @@
 
 ![PL Photo](depositphotos_470508040-stock-photo-london-uk-may-2021-premier.jpg)
 
-<img src="depositphotos_470508040-stock-photo-london-uk-may-2021-premier.jpg" width=1000>
+<img src="depositphotos_470508040-stock-photo-london-uk-may-2021-premier.jpg" width=800>
 
 Fantasy Premiere Leage is a game that is based on Premiere League. Premiere League is the highest level of football (soccer) competition in England. As the name says, Fantasy Premiere League is when you can have fantasy in building squad using players from various (20) teams. Ater building squad, you will get points from goals, assist, hattrick, saves, performance, etc. The total points of all players will be aggregated. Usually, you play FPL in a league and compete with other FPL players. The winner of the competition is players with the highest total points. 
 
