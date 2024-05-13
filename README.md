@@ -1,5 +1,5 @@
 # Project for Scrapping Data from Fantasy Premiere League 2023/2024 
 
-In this project, I tried to scrape data from FPL using FPL API. 
+Fantasy Premiere Leage is a game that is based on Premiere League. Premiere League is the highest level of football (soccer) competition in England. As the name says, Fantasy Premiere League is when you can have fantasy in building squad using players from various (20) teams. Ater building squad, you will get points from goals, assist, hattrick, saves, performance, etc. The total points of all players will be aggregated. Usually, you play FPL in a league and compete with other FPL players. The winner of the competition is players with the highest total points. In this project, I tried to scrape data from FPL using FPL API. 
 
-In cleaning the data, I got so much insights from : https://medium.com/analytics-vidhya/getting-started-with-fantasy-premier-league-data-56d3b9be8c32
+In cleaning the data, I got so much insights from : https://medium.com/analytics-vidhya/getting-started-with-fantasy-premier-league-data-56d3b9be8c32  
