@@ -1,6 +1,6 @@
 # Scrapping Fantasy Premiere League Data Season 2023/2024 
 
-![PL Photo](depositphotos_470508040-stock-photo-london-uk-may-2021-premier.jpg)
+<!-- ![PL Photo](depositphotos_470508040-stock-photo-london-uk-may-2021-premier.jpg) -->
 
 <img src="depositphotos_470508040-stock-photo-london-uk-may-2021-premier.jpg" width=800>
 
